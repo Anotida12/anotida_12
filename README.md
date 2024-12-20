@@ -12,3 +12,5 @@ print ("Bye")
 ```
 
 **Hello**
+
+**Exercise 3.1**
